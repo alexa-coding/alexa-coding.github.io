@@ -38,12 +38,8 @@ footer {
   margin-top: 50px;
 }
 .container {
-  margin-top: 20px;
-  -webkit-column-count: 4;
-}
-.container1 {
-  width: 100px;
-  height: 100px
+  width: 500px;
+  height: 500px
 }
 .paw1 {
   opacity: 1;
